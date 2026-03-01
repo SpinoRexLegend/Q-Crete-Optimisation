@@ -2,7 +2,8 @@ streamlit
 pandas
 numpy
 torch
-qiskit
+qiskit>=1.0.0
+qiskit-algorithms
 qiskit-optimization
 matplotlib
 plotly
